@@ -1,0 +1,4 @@
+PyMySQL==0.9.3
+pandas==1.3.5
+python-dateutil==2.8.2
+loguru==0.7.2
